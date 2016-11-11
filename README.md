@@ -55,7 +55,7 @@
 * Play an artist or song: “Play [artist]” or, “Play [song].”
 * Play a song by lyrics: “Play the song that goes, ‘Is this the real life?'”
 * Play a Google Play playlist or album: “Play some indie music” or, “Play [album].”
-* Ask what’s playing: “What song is this?” or, “OK Google, what album is this?”
+* Ask what’s playing: “What song is this?” “What album is this?” "Who is this"
 * Get more information: “When did this album come out?”
 * Fast forward and rewind: “Skip forward 2 minutes” or, “Skip backward 30 seconds.”
 * Play music through other speakers using Chromecast: “Cast [song] onto [speaker name].”
