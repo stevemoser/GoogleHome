@@ -6,11 +6,12 @@ Command master list
 * Ask for help: “Help.”
 * Control the volume: “Turn it up” or, “Louder” or volume up (level number here like 7) or, “Turn it to 11.” (Yes, the max is 11.)
 * Halt/stoppping an action: “Stop” or, “Pause” or, “Be quiet.
-
+* Relationships: "[Name] is my [relationship]"
 
 ## Tools/Utility
 * Roll a die: “Roll a die” or, “Roll a 12-sided die.( you’ll hear it roll and tell you the result.”
 * Flip a coin: “Flip a coin. ( Noise and results)”
+* Random number: "Give me a random number between [x] and [y]"
 * Math: “What’s 454 times 12 divided by 2 plus 3?”
 * Measurements: “How many liters are in 4 gallons. (Good for cooking)”
 * Time: “What time is it? (based on your location)”
@@ -26,7 +27,7 @@ Command master list
 * Recipes: “How do I make [dish]”
 * Add to shopping list: “Add [item] to my shopping list.”
 * Check shopping list: “What’s on my shopping list? (It will let you know if you don’t have one)”
-* Daily briefing: “Good morning.” (includes personalized greeting, info on weather, traffic, and curated news stories)
+* Daily briefing: “Good morning.” (includes personalized greeting, info on weather, traffic, and curated news stories. "Skip" to advance to next item in briefing)
 * Uber: “Order an Uber. (I expect more to come December time when the SDK drops, cough cough Lyft)”
 * Saying Goodbye: “See you later Google!”
 
@@ -59,7 +60,7 @@ Command master list
 * Play music: “Play some music” or, “Play some [genre] music.”
 * Play an artist or song: “Play [artist]” or, “Play [song].”
 * Play a song by lyrics: “Play the song that goes, ‘Is this the real life?'”
-* Play a Google Play playlist or album: “Play some indie music” or, “OK Google, play [album].”
+* Play a Google Play playlist or album: “Play some indie music” or, “Play [album].”
 * Ask what’s playing: “What song is this?” or, “OK Google, what album is this?”
 * Get more information: “When did this album come out?”
 * Fast forward and rewind: “Skip forward 2 minutes” or, “Skip backward 30 seconds.”
@@ -77,35 +78,39 @@ Command master list
 
 ## Entertainment
 * Sports updates: “Who is [team] playing next?” or “Did the [team] win last night?”
-* Sports scores: “What was the score for the last [team] game? or What is the score of the [team] game.”
+* Sports scores: “What was the score for the last [team] game?" or "What is the score of the [team] game.”
 * Team information: “Tell me about [team].”
 * Movies: “Wat movies came out last Friday?”
 * Casting for movies: “What actors are in [movie]?”
 * Shows by network: “What shows are on [network]?”
 * News: “What’s today’s news?”
-* News: "Skip" "Next"
+* Games: "I'm feeling lucky" "Madlibs"
+* Poetry: "Read a poem"
+* Jokes: "Tell me a joke" "Tell me another one"
 
 # Smart Home
 ## Integrated platforms
-* Nest
-* Samsung Smartthings
-* Philips Hue
-* IFTTT
-### Commands
-* Turn Philips Hue lights on/off: “Turn on/off my lights.”
-* Dim Hue lights: “Dim my lights to fifty percent.”
-* Change Hue colors: “Turn my lights [color].”
-* Add Hue lights: “Add “room name” lights.”
-* Control Nest thermostat: “Turn the temperature to [temp].”
-* Make incremental changes: “Raise the temperature 1 degree.”
-#### Customize trigger phrases for IFTTT. For example: “OK Google, nighttime. LIFX bulb(s) turns off.” [Popular IFTTT Recipes below]
-* “Lights off” [Turns off LIFX lights]
-* “Find my Phone” [ Google tells IFTTT to ring your phone]
-* "Block out the next hour on Google Calendar" [Next hour is blocked on your calendar.]
-* "Turn on the TV" [Harmony Hub turns on TV]
+### Nest
+* "What's the temperature inside?"
+* "Make it warmer"
+* "Make it cooler"
+* "Set the temperature to 68 degrees"
+* "Raise the temperature 4 degrees"
+
+### Samsung Smartthings/Philips Hue
+* "Turn on [light name]"
+* "Dim the [light name]"
+* "Brighten the [light name]"
+* "Set [light name] to 50%"
+* "Dim/Brighten [light name] by 50%"
+* "Turn [light name] green"
+* "Turn on/off lights in [room name]" 
+* "Turn on/off all of the lights"
+
+### IFTTT 
+Changes all the time - [Link](https://ifttt.com/google_assistant)
 
 ## Easter Eggs
-* “Always be closing.”
 * “What is your quest?”
 * “I am your father.”
 * “Set phasers to kill.”
@@ -122,6 +127,10 @@ Command master list
 * “Multistep, you can understand it” [Knock knock joke]
 * “What’s up”
 * “Who are you going to call?”
-* "Get Schwifty"
-* "Drop a beat"
-
+* "Wubba lubba dub dub"
+* "Drop a beat" "Beatbox" "Get Schwifty"
+* "Do you like Star Trek, or Star Wars?"
+* "F*** you"
+* "Do you speak Morse code?"
+* "Here comes dat boi"
+* "What am I thinking right now?"
