@@ -157,3 +157,5 @@ Changes all the time - [Link](https://ifttt.com/google_assistant)
 * "What are you going to dress up as for Halloween?"
 * "Do you have a family?"
 * "What's your favorite pokemon"
+* "Ain't nobody got time for that"
+* "What does the fox say?"
