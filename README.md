@@ -159,3 +159,5 @@ Changes all the time - [Link](https://ifttt.com/google_assistant)
 * "What's your favorite pokemon"
 * "Ain't nobody got time for that"
 * "What does the fox say?"
+* "Who is your daddy?"
+* "Spin the wheel"
