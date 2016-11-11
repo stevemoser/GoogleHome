@@ -161,3 +161,4 @@ Changes all the time - [Link](https://ifttt.com/google_assistant)
 * "What does the fox say?"
 * "Who is your daddy?"
 * "Spin the wheel"
+* "Where in the world is Carmen Sandiego
