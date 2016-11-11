@@ -5,7 +5,7 @@
 * Relationships: "[Name] is my [relationship]"
 
 ## Tools/Utility
-* Roll a die: “Roll a die” or, “Roll a 12-sided die.( you’ll hear it roll and tell you the result.”
+* Roll a die: “Roll a die" “Roll a 12-sided die""Roll a d20" ( you’ll hear it roll and tell you the result.”
 * Flip a coin: “Flip a coin. ( Noise and results)”
 * Random number: "Give me a random number between [x] and [y]"
 * Math: “What’s 454 times 12 divided by 2 plus 3?”
