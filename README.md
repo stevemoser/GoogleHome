@@ -1,7 +1,3 @@
-# GoogleHome
-Command master list
-
-
 ## The Basics
 * Ask for help: “Help.”
 * Control the volume: “Turn it up” or, “Louder” or volume up (level number here like 7) or, “Turn it to 11.” (Yes, the max is 11.)
@@ -31,7 +27,6 @@ Command master list
 * Uber: “Order an Uber. (I expect more to come December time when the SDK drops, cough cough Lyft)”
 * Saying Goodbye: “See you later Google!”
 
-
 ## Google Search
 * Stocks: “How are Alphabet’s stocks doing?”
 * Weather: “How’s the weather today?” or, “Do I need an umbrella today?”
@@ -55,7 +50,6 @@ Command master list
 * Inventors: Who invented [item]?”
 * Founders: “Who founded [company, place, thing]”
 
-
 ## Media
 * Play music: “Play some music” or, “Play some [genre] music.”
 * Play an artist or song: “Play [artist]” or, “Play [song].”
@@ -74,7 +68,6 @@ Command master list
 * Pull up lists on YouTube: “Let’s look at what’s trending on YouTube on [TV name].”
 * Play TuneIn Station: “Play [station] on TuneIn.”
 * Sings You a Song: “Sing me a song”
-
 
 ## Entertainment
 * Sports updates: “Who is [team] playing next?” or “Did the [team] win last night?”
@@ -123,8 +116,7 @@ Changes all the time - [Link](https://ifttt.com/google_assistant)
 * “Did you fart?”
 * “How old are you?”
 * “Where were you born?”
-* “Come in!” [Knock knock joke]
-* “Multistep, you can understand it” [Knock knock joke]
+* “Come in!”
 * “What’s up”
 * “Who are you going to call?”
 * "Wubba lubba dub dub"
