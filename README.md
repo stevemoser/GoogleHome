@@ -83,6 +83,7 @@ Command master list
 * Casting for movies: “What actors are in [movie]?”
 * Shows by network: “What shows are on [network]?”
 * News: “What’s today’s news?”
+* News: "Skip" "Next"
 
 # Smart Home
 ## Integrated platforms
@@ -122,3 +123,5 @@ Command master list
 * “What’s up”
 * “Who are you going to call?”
 * "Get Schwifty"
+* "Drop a beat"
+
