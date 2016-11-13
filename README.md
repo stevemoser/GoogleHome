@@ -10,6 +10,11 @@
   * “Stop.” 
   * “Pause.”
   * “Be quiet."
+  * "Mute."
+  * "Quiet."
+  * "Silence."
+  * "Shut up."
+  * "Shut the f*** up."
 * Relationships: (Person must be in your contact list)
   * "[Name] is my [relationship]."
 
