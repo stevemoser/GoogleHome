@@ -265,4 +265,5 @@ Changes all the time - [Link](https://ifttt.com/google_assistant)
 * "Explain rock, paper, scissors, lizard, spock."
 * "Tell me what you want, what you really really want."
 * "Mischief managed."
-* "I solemly swear that I'm up to no good"
+* "I solemly swear that I'm up to no good."
+* "Tell me about Alexa."
